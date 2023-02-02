@@ -14,9 +14,6 @@
     "mongodb": "^2.2.5",
     "mongoose": "^6.9.0"
   },
-  "engines": {
-    "node": "4.4.5"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/muneer-ahmed-khan/url_shortner"
